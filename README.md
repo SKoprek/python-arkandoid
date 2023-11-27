@@ -1,3 +1,4 @@
-Graphics: https://opengameart.org/content/breakout-brick-breaker-tile-set-free
+# Arkanoid game using PyGame
 
-FIX
+[Graphics](https://opengameart.org/content/breakout-brick-breaker-tile-set-free)
+
